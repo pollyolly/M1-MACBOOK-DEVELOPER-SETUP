@@ -1,4 +1,4 @@
-# M1-MACBOOK-DEVELOPER-SETUP
+# M1 MACBOOK DEVELOPER SETUP
 
 ### Enable syntax highlighting in Vim
 ```
