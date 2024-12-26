@@ -25,4 +25,8 @@ https://brew.sh/
 ```vim
 $brew install neovim
 ```
-
+### Google Chrome
+Allo Google Chrome to Access Local Network
+```
+Privacy & Security -> Local Network -> Allow Google Chrome
+```
