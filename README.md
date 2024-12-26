@@ -26,7 +26,12 @@ https://brew.sh/
 $brew install neovim
 ```
 ### Google Chrome
-Allo Google Chrome to Access Local Network
+Allow Google Chrome to Access Local Network
 ```
 Privacy & Security -> Local Network -> Allow Google Chrome
+```
+### UTM Virtual Machine
+qemu-x86_64-softmmu: combined size of system firmware exceeds 8388608 bytes
+```
+Edit -> QEMU -> UEFI Boot: Uncheck (Disable)
 ```
